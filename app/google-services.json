@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727425061908",
+    "project_id": "realtime-databs-studentmngment",
+    "storage_bucket": "realtime-databs-studentmngment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727425061908:android:d226e05b93e7cfb28f0301",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realtimedatabase_studentmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmsz7iE07Bq4s9raO5r0f57fKK6dmjPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
